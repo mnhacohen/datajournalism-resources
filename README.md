@@ -89,6 +89,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [csvkit](https://github.com/wireservice/csvkit) :computer: - A suite of command-line tools for converting to and working with CSV files.
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) :computer: - Clean & transform messy data.
 - [pandas](https://pandas.pydata.org/) :snake: - Powerful Python data analysis library. Best used in a [Jupyter notebook](https://jupyter.org/).
+- [tablua] (https://tabula.technology/) :computer: - an open-source tool for extracting data tables from pdf documents.
 
 ## Email
 - [Infoga](https://github.com/m4ll0k/Infoga) :computer: - Gather email accounts information (ip, hostname, country, etc) from different public sources.
